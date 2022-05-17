@@ -1,0 +1,24 @@
+<div id="projects" class="background-alt">
+    <h2 class="heading">Proyectos*</h2>
+    <h5>*(Los proyectos no son verídicos)</h5>
+    <div class="container">
+        <div class="row">
+            <div class="project shadow-large" *ngFor="let proyecto of misProyectos">
+                <div class="project-image">
+                    <img [src]="proyecto.image" />
+                </div>
+                <!-- End .project-image -->
+                <div class="project-info">
+                    <h3><b>{{proyecto.nombredeproyecto}}</b></h3>
+                    <p>
+                        {{proyecto.descripcion}}
+                    </p>
+                    <a href="#">Ver proyecto</a>
+                </div>
+                <!-- End .project-info -->
+            </div>
+            <!-- End .project -->
+        </div>
+    </div>    
+
+            

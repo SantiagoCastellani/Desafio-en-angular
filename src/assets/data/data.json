@@ -1,0 +1,22 @@
+{
+    "nombre":"Santiago Castellani",
+    "profesion":"Desarrollador Web Full Stack",
+    "sobremi":"Desarrollador web en formación, amante de la naturaleza, con habilidades para las ciencias exactas y el trabajo cooperativo. Abierto a formar parte de nuevos proyectos que permitan sumar herramientas y aprendizajes en este camino formativo.",
+    "proyectos":[
+        {
+            "nombredeproyecto":"Magic Water",
+            "descripcion":"Aplicación para facilitar regímenes de lluvia en zonas secas, manteniendo un equilibrio en el ámbito local y el entorno. Sincronización con la nube. Historial de regímenes pluviales.",
+            "image":"assets/images/lluvia2.gif"
+        },
+        {
+            "nombredeproyecto":"Pequeños Científicos",
+            "descripcion":"Ciencia al alcance de los más pequeños. Guia de aprendizaje y banco de experimentos seguros para realizar",
+            "image":"assets/images/peque.jpg"
+        },
+        {
+            "nombredeproyecto":"Misterios",
+            "descripcion":"Banco de testimonios de sucesos sobrenaturales acontecidos a lo largo del tiempo. Investigación, documentación y foros.",
+            "image":"assets/images/misterios.jpg"
+        }
+    ] 
+}

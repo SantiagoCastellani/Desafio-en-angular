@@ -1,0 +1,17 @@
+{
+    "nombre":"Hayao Miyazaki",
+    "profesion":"Director Cinematografico",
+    "sobremi":"Para crear una película, me gusta arrojar una red al océano de mi imaginación y ver qué es lo que saco",
+    "proyectos":[
+        {
+            "nombredeproyecto":"Mi Vecino Totoro",
+            "descripcion":"Una bella película sobre la niñez y el mundo mágico.",
+            "image":"assets/images/peque.jpg"
+        },
+        {
+            "nombredeproyecto":"El viaje de Chihiro",
+            "descripcion":"El filme cuenta la historia de una niña de diez años llamada Chihiro, quien durante una mudanza se ve atrapada en un mundo mágico y sobrenatural, teniendo como misión buscar su libertad y la de sus padres, y así poder regresar a su mundo.",
+            "image":"assets/images/peque.jpg"
+        }
+    ] 
+}
